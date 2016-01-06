@@ -1,0 +1,719 @@
+/* No comment provided by engineer. */
+"Address copied." = "地址已复制";
+
+/* No comment provided by engineer. */
+"Amount:" = "金额:";
+
+/* No comment provided by engineer. */
+"Back up private key" = "备份私钥";
+
+/* No comment provided by engineer. */
+"Bither Cold Watch Only QR Code" = "冷钱包监控二维码";
+
+/* No comment provided by engineer. */
+"Buy: %@" = "买一: %@";
+
+/* No comment provided by engineer. */
+"Change Password" = "修改密码";
+
+/* No comment provided by engineer. */
+"Change password failed" = "修改密码失败";
+
+/* No comment provided by engineer. */
+"Change password success" = "修改密码成功";
+
+/* No comment provided by engineer. */
+"Changing password\nDo not turn off the screen" = "正在修改密码\n请不要关闭屏幕";
+
+/* No comment provided by engineer. */
+"Check Private Keys" = "一键检查私钥";
+
+/* No comment provided by engineer. */
+"Checking Cellular Data" = "正在检查数据网络";
+
+/* No comment provided by engineer. */
+"Checking password…" = "正在检查密码…";
+
+/* No comment provided by engineer. */
+"Checking private keys..." = "正在检查私钥...";
+
+/* No comment provided by engineer. */
+"Checking WIFI" = "正在检查WIFI";
+
+/* No comment provided by engineer. */
+"Clone failed." = "克隆失败";
+
+/* No comment provided by engineer. */
+"clone QR code" = "克隆二维码";
+
+/* No comment provided by engineer. */
+"Clone success." = "克隆成功";
+
+/* No comment provided by engineer. */
+"Cloning..." = "正在克隆...";
+
+/* No comment provided by engineer. */
+"Cold Wallet Address" = "冷钱包地址";
+
+/* No comment provided by engineer. */
+"Cold Wallet Clone" = "冷钱包克隆";
+
+/* No comment provided by engineer. */
+"Cold Wallet Clone QR Code" = "冷钱包克隆二维码";
+
+/* No comment provided by engineer. */
+"Confirm New Password" = "确认新密码";
+
+/* No comment provided by engineer. */
+"Confirmation: %d" = "确认: %d";
+
+/* No comment provided by engineer. */
+"Confirmation: 100+" = "确认: 100+";
+
+/* No comment provided by engineer. */
+"Enter original password" = "请输入原密码";
+
+/* No comment provided by engineer. */
+"Enter password of wallet" = "请输入钱包密码";
+
+/* No comment provided by engineer. */
+"Enter source password" = "请输入克隆源的密码";
+
+/* No comment provided by engineer. */
+"Fee:" = "手续费:";
+
+/* No comment provided by engineer. */
+"Finish" = "完成";
+
+/* No comment provided by engineer. */
+"Give up signing?" = "放弃签名?\n用冷钱包扫描签名";
+
+/* No comment provided by engineer. */
+"Hot Wallet Address" = "热钱包地址";
+
+/* No comment provided by engineer. */
+"Invalid password" = "密码错误";
+
+/* No comment provided by engineer. */
+"Length: 6 - 43" = "长度: 6 - 43";
+
+/* No comment provided by engineer. */
+"Me" = "我的地址";
+
+/* No comment provided by engineer. */
+"Monitor Bither Cold failed." = "监控冷钱包失败";
+
+/* No comment provided by engineer. */
+"New Password" = "新密码";
+
+/* No comment provided by engineer. */
+"New passwords not same" = "新密码不符";
+
+/* No comment provided by engineer. */
+"Next Page" = "下一页";
+
+/* No comment provided by engineer. */
+"No private keys" = "您还没有添加私钥";
+
+/* dialogAlertConfirm */
+"OK" = "确认";
+
+/* No comment provided by engineer. */
+"Old Password" = "原密码";
+
+/* No comment provided by engineer. */
+"Password" = "密码";
+
+/* No comment provided by engineer. */
+"Password Confirm" = "确认密码";
+
+/* No comment provided by engineer. */
+"Password wrong." = "密码错误";
+
+/* No comment provided by engineer. */
+"Passwords not same." = "密码不符";
+
+/* No comment provided by engineer. */
+"Pay to" = "发送给";
+
+/* No comment provided by engineer. */
+"Please turn off Cellular Data" = "请关闭数据网络";
+
+/* No comment provided by engineer. */
+"Please turn off WIFI" = "请关闭WIFI";
+
+/* No comment provided by engineer. */
+"Please wait…" = "请稍候…";
+
+/* No comment provided by engineer. */
+"private key" = "私钥";
+
+/* No comment provided by engineer. */
+"Private key of %@" = "%@的私钥";
+
+/* No comment provided by engineer. */
+"Private Key QR Code" = "私钥二维码";
+
+/* No comment provided by engineer. */
+"Private keys are safe." = "私钥很安全";
+
+/* No comment provided by engineer. */
+"Private keys in danger." = "私钥有危险";
+
+/* No comment provided by engineer. */
+"QR Code" = "二维码";
+
+/* No comment provided by engineer. */
+"QR Code saved." = "二维码已保存";
+
+/* No comment provided by engineer. */
+"Received" = "收到";
+
+/* No comment provided by engineer. */
+"Received:" = "收到:";
+
+/* No comment provided by engineer. */
+"Scan %@" = "扫描%@";
+
+/* No comment provided by engineer. */
+"Scan %@\nPage %d, Total %d" = "扫描 %1$@\n第%2$d页, 共%3$d页";
+
+/* No comment provided by engineer. */
+"Scan Bitcoin Address" = "扫描比特币地址";
+
+/* No comment provided by engineer. */
+"Scan Bither Cold to sign" = "扫描冷钱包完成签名";
+
+/* No comment provided by engineer. */
+"Scan by clone destination" = "使用克隆目的钱包扫描";
+
+/* No comment provided by engineer. */
+"Scan Private Key QR Code" = "扫描私钥二维码";
+
+/* No comment provided by engineer. */
+"Scan QR Code for Bitcoin address" = "扫描地址二维码";
+
+/* No comment provided by engineer. */
+"Scan The Clone Source" = "扫描克隆源";
+
+/* No comment provided by engineer. */
+"Scan to watch Bither Cold" = "扫描来监控冷钱包";
+
+/* No comment provided by engineer. */
+"Scan unsigned transaction failed" = "扫描未签名交易失败";
+
+/* No comment provided by engineer. */
+"Scan Unsigned TX" = "扫描未签名交易";
+
+/* No comment provided by engineer. */
+"Scan with Bither Cold" = "使用冷钱包扫描";
+
+/* No comment provided by engineer. */
+"Scan with Bither Hot to sign tx" = "使用热钱包扫描完成签名";
+
+/* No comment provided by engineer. */
+"Scan with Bither Hot to watch Bither Cold" = "使用热钱包扫描来监控冷钱包";
+
+/* No comment provided by engineer. */
+"Sell: %@" = "卖一: %@";
+
+/* No comment provided by engineer. */
+"Send" = "发送";
+
+/* No comment provided by engineer. */
+"Send failed." = "发送失败";
+
+/* No comment provided by engineer. */
+"Send success." = "发送成功";
+
+/* No comment provided by engineer. */
+"Send:" = "发送:";
+
+/* No comment provided by engineer. */
+"Sent" = "发出";
+
+/* No comment provided by engineer. */
+"Set Avatar" = "设置头像";
+
+/* No comment provided by engineer. */
+"Set Password" = "设置密码";
+
+/* No comment provided by engineer. */
+"Sign Transaction" = "签名交易";
+
+/* No comment provided by engineer. */
+"Signed Transaction" = "已签名交易";
+
+/* No comment provided by engineer. */
+"Signing Transaction" = "正在签名交易";
+
+/* No comment provided by engineer. */
+"Stop Monitoring" = "停止监控";
+
+/* No comment provided by engineer. */
+"Sure to stop monitoring this address?" = "确认停止监控这个地址?";
+
+/* No comment provided by engineer. */
+"Thank you for donating." = "感谢您的捐赠";
+
+/* No comment provided by engineer. */
+"Unknown Address" = "地址不详";
+
+/* No comment provided by engineer. */
+"unsigned tx QR code" = "未签名交易二维码";
+
+/* No comment provided by engineer. */
+"View on Blockchain.info" = "在Blockchain.info上查看";
+
+/* No comment provided by engineer. */
+"Watch Only QR Code" = "监控二维码";
+
+/* No comment provided by engineer. */
+"You will send to:" = "将要发送给:";
+
+"Signed TX QR Code" = "已签名交易二维码";
+
+"Page %d, Total %ld" = "第%1$d页, 共%2$d页";
+
+
+"yesterday %@" = "昨天 %@";
+
+"No transactions found for this address,\nit has probably not been used on the network yet." = "没有找到这个地址的交易,\n它可能还没有在网络上使用过.";
+
+"HUOBI"="火币网";
+"CHBTC"="中国比特币";
+"BTCChina"="比特币中国";
+"BtcTrade" = "比特币交易网";
+
+"QR Code Style"="二維碼風格";
+"Yellow"="黃";
+"Green"="綠";
+"Red"="紅";
+"Blue"="藍";
+"Purple"="紫";
+"Black"="黑";
+
+
+"Send:"="发送:";
+"Received:"="收到:";
+"Cancel"="取消";
+
+//setting
+
+"Check Private Keys"="一键检查私钥";
+"Default Currency"="默认货币";
+"Default Exchange"="默认交易所";
+"Network Setting"="网络设置";
+"Sync over wifi only"="只在wifi下同步";
+"Sync always"="一直同步";
+"Default Transaction Fee"="默认手续费";
+"Normal"="正常";
+"Low"="较低";
+"High" = "较高";
+"fast confirmation"="较快确认";
+"slow confirmation"="较慢确认";
+"Donate"="捐赠";
+"Thank you for donating."="谢谢您的捐赠";
+"Sure to set low transaction fee as default?\nThis may cause slow confirmation."="确认默认使用低手续费模式?\n这会导致较慢的交易确认";
+"The last backup is within 1 hour. Sure to backup again?"="一个小时内刚刚进行过备份，确认要再次备份吗?";
+"Set Avatar"="设置头像";
+"From Camera"="来自相机";
+"From Gallery"="来自图库";
+"Change Password"="修改密码";
+"Import Private Key"="导入私钥";
+"From Bither Private Key QR Code"="来自比太私钥二维码";
+"From Private Key Text"="来自私钥明文";
+"Enter your private key text"="输入私钥明文";
+"Not match private key format"="不符合私钥格式";
+"Scan Private Key QR Code"="扫描私钥二维码";
+"Enter original password"="输入原密码";
+"Import success."="导入成功";
+"Import failed."="导入失败";
+"Can\'t import Bither Cold private key."="不能导入冷钱包私钥";
+"This private key already exists."="私钥已存在";
+"Importing…"="正在导入…";
+"Password of the private key to import is different from ours. Import failed."="导入私钥的密码与已有密码不同, 无法导入";
+
+
+"Scan Private Key QR Code"="扫描私钥二维码";
+"Scan QR code No.1 provided by Bither"="请扫描比太提供的第1张二维码";
+"Not match private key format"="不符合私钥格式";
+"Enter your private key text"="输入私钥明文";
+"private key"="私钥";
+"Only supports the compressed format of private key"="只支持压缩格式的私钥";
+
+//donate
+"Select an address to donate"="请选择用来捐赠的地址";
+"No bitcoins available for donation."="您没有可以用来捐赠的比特币";
+"Donate to developers"="捐赠给开发者";
+"Donate"="捐赠";
+
+"Private Key QR Code (Encrypted)"="私钥二维码 (加密)";
+"Private Key QR Code (Decrypted)"="私钥二维码 (解密)";
+"Private Key"="私钥明文";
+
+"choose_mode_cold_confirm" = "模式设置后不能切换.\n冷钱包应该运行在离线的备用手机上.\n确认以冷钱包模式运行?";
+"choose_mode_warm_confirm" = "模式设置后不能切换.\n热钱包可以方便的在线发送交易.\n确认以热钱包模式运行?";
+
+"balance_detail_transaction_count" = "交易数";
+"balance_detail_total_incoming" = "总收入";
+"balance_detail_total_outgoing" = "总支出";
+
+/* network error */
+"Network failure." = "网络错误";
+
+"Cannot monitor address with large amount of transactions."="此地址有太多交易 ,不能监控";
+"Cannot monitor address with special transactions."="此地址有特殊交易 ,不能监控";
+"Cannot import private key with large amount of transactions."="此私钥有太多交易 ,不能导入";
+"Cannot import private key with special transactions."="此私钥有特殊交易 ,不能导入";
+
+
+"Can\'t import Bither Cold private key."="不能导入冷钱包私钥";
+"This private key already exists."="私钥已存在";
+
+"Advance Options"="高级选项";
+
+"Send failed. Sending coins this few will be igored."="发送失败. 这样小额的交易会被忽略.";
+"%@ BTC to be confirmed."="%@ BTC 正在等待确认.";
+"Send failed. You don\'t have enough coins available for transaction fee."="发送失败. 可用余额不足以支付手续费.";
+"Send failed. You don\'t have enough coins available."="发送失败. 可用余额不足.";
+"Send failed. Lack of %@ BTC."="发送失败. 可用余额中缺少 %@ BTC. ";
+"Send failed. Transaction size is to large."="发送失败. 交易大小过大.";
+"Please wait for another confirmation."="请等待一个新的确认后再交易.";
+
+"Total BTC prefix"="总计: ";
+
+
+"Reload Transactions data"="重载交易数据";
+"Reload Transactions data?\nNeed long time.\nConsume network data.\nRecommand trying only with wrong data."="确认重载交易数据 ?\n需要较长时间\n消耗网络流量\n建议只在数据出错时尝试";
+"Reload transactions data failed , Please retry again."="重载交易数据失败 , 请重试 .";
+"Reload transactions data success"="重载交易数据成功 ";
+"You can only reload transactions data in a hour.."="一个小时内只能重载交易数据一次.";
+
+"XRandom increases randomness.\nSure to disable?"="极随机(XRandom)能提高随机性.\n确认不使用吗?";
+
+
+
+//bip38
+"BIP38-private key"="BIP38私钥";
+"Import BIP38-private key"="导入BIP38私钥";
+"From BIP38-private key QR Code"="来自BIP38私钥二维码";
+"From BIP38-private key text"="来自BIP38私钥文本";
+"Enter password of BIP38-private key" ="请输入BIP38私钥的密码";
+"Enter your BIP38-private key"="输入BIP38私钥明文";
+"Not match BIP38-private key format"="不符合BIP38私钥格式";
+"Scan BIP38-private key QR Code"="扫描BIP38私钥二维码";
+"Based on %@ %@"="基于 %@ %@";
+"address_detail_private_Key_qr_code_bip38" = "BIP38 私钥二维码";
+
+"xrandom_no_source"="无可用随机源";
+"xrandom_generating_failed"="生成失败";
+"xrandom_cancel_confirm"="停止生成?";
+"xrandom_final_confirm"="您已成功生成%lu个极随机私钥";
+"xrandom_stopping"="正在停止…";
+"xrandom_info_detail"="极随机通过采集数据源以增加随机性.\n\n数据源包括摄像头、麦克风、磁场感应器、重力感应器等设备内置传感器.";
+"xrandom_info_guide"="\n\n采集过程中您可通过晃动设备等方式增加所采集数据的随机性.";
+"xrandom_info_get_permissions"="请求权限";
+"reach_address_count_limit"="已达地址数上限";
+
+
+
+"Switch QRCode"="切换二维码";
+"Switched to old version QR Codes, sign with Bither Cold <1.1.0"="已切换到旧版二维码，可用 <1.1.0的冷钱包签名";
+"Switched to new version QR Codes, sign with Bither Cold ≧1.1.0"="已切换到新版二维码，可用 ≧1.1.0的冷钱包签名";
+"Camera Permission Required"="需要访问摄像头的权限";
+"scan_qr_code_from_photo_wrong" = "没有找到二维码";
+
+//avatar
+"Set Avatar"="设置头像";
+"From Camera"="来自相机";
+"From Gallery"="来自图库";
+
+/* Crop Photo */
+"Move And Scale" = "移动和缩放";
+
+/* RCheck */
+"rcheck_address_danger_title" = "%@ 的 r 值异常";
+"rcheck_address_title" = "%@ 的 r 值";
+"rcheck_button" = "RCheck";
+"rcheck_danger" = "r 值异常.";
+"rcheck_no_address" = "未添加地址, 无需检查 r 值.";
+"rcheck_recalculate" = "r 值检查失败, 重新签名交易.";
+"rcheck_safe" = "r 值正常.";
+"rchecking" = "正在检查 r 值";
+"setting_name_rcheck" = "r 值检查";
+"rchecking_new_tx" = "r 值检查";
+"rcheck_new_tx_success" = "r 值检查";
+"rcheck_info" = "同一个地址的交易历史中出现重复的 r 值, 有可能导致私钥暴露.\n\nr 值检查会检查交易历史, 并确保不存在重复 r 值.";
+"rcheck_fail_recalculate_confirm" = "r 值检查失败, 重新签名交易?";
+
+/* trash */
+"trash_private_key" = "移入回收站";
+"trash_with_money_warn" = "这个地址内还有比特币.\n您不能把它移入回收站.";
+"trashing_private_key" = "正在移入回收站";
+"trash_can" = "回收站";
+"trash_can_empty" = "回收站空";
+"trash_address_restore" = "还原地址?";
+
+/* bitcoin unit */
+"setting_name_bitcoin_unit" = "默认单位";
+
+/* launch sequence */
+"launch_sequence_switch_to_cold" = "切换到冷钱包";
+"launch_sequence_switch_to_cold_warn" = "确认切换到冷钱包模式?\n\n冷钱包应该运行在离线的备用手机上.\n热钱包可以监控冷钱包.\n一旦切换成冷钱包便不能切换回热钱包.";
+
+/* pin code */
+"pin_code_enter_notice" = "输入您的 PIN 码";
+"pin_code_setting_name" = "PIN 码";
+"pin_code_setting_open" = "开启 PIN 码";
+"pin_code_setting_close" = "关闭 PIN 码";
+"pin_code_setting_change" = "修改 PIN 码";
+"pin_code_setting_open_msg" = "输入您的 PIN 码";
+"pin_code_setting_open_repeat_msg" = "再次输入您的 PIN 码";
+"pin_code_setting_open_repeat_wrong" = "两次输入的 PIN 码不同";
+"pin_code_setting_change_old_msg" = "输入您的原 PIN 码";
+"pin_code_setting_change_old_wrong" = "原 PIN 码错误";
+"pin_code_setting_change_new_msg" = "输入您的新 PIN 码";
+"pin_code_setting_change_new_repeat_msg" = "再次输入您的新 PIN 码";
+"pin_code_setting_change_repeat_wrong" = "两次输入的新 PIN 码不同";
+"pin_code_setting_close_wrong" = "PIN 码错误";
+"pin_code_touch_id_promot" = "解锁比太";
+
+/* keychain backup */
+"keychain_backup" = "iCloud 钥匙串备份";
+"keychain_backup_on" = "开";
+"keychain_backup_off" = "关";
+"keychain_backup_enable" = "打开 iCloud 钥匙串备份?";
+"keychain_backup_disable" = "关闭 iCloud 钥匙串备份?";
+"keychain_backup_add_from_local" = "本机添加";
+"keychain_backup_add_from_keychain" = "钥匙串添加";
+"keychain_backup_trash_from_local" = "本机移入回收站";
+"keychain_backup_trash_from_keychain" = "钥匙串移入回收站";
+"keychain_backup_diff_warn" = "iCloud 钥匙串备份产生如下变化\n是否继续?";
+"keychain_backup_diff_warn_yes" = "是";
+"keychain_backup_diff_warn_no" = "否";
+
+/* Private Key Management */
+"private_key_management" = "私钥管理";
+
+// Raw Private Key
+"raw_private_key_not_safe" = "这个私钥不安全";
+
+// QR Code Precision
+"qr_code_quality_setting_name" = "二维码精度";
+"qr_code_quality_setting_normal" = "正常";
+"qr_code_quality_setting_low" = "较低";
+
+// Blockmeta
+"address_option_view_on_blockmeta" = "在BlockMeta.com上查看";
+
+// Network Monitor Options
+"network_monitor_clear_peers" = "清空节点";
+"network_monitor_title" = "网络监控";
+
+// Manual Delete Transaction
+"manual_delete_transaction_warning" = "删除此交易?";
+
+"old_version_no_support_change_adress"="旧版本二维码不支持选择找零地址";
+
+// Select Change Address
+"select_change_address_option_name" = "选择找零地址";
+"select_change_address_label" = "选择找零地址";
+"send_confirm_change_to_label" = "找零到:";
+"sign_transaction_change_to_label" = "找零到:";
+"sign_transaction_change_amount_label" = "找零金额:";
+"select_change_address_change_to_same_warn" = "发送到的地址和找零地址不能相同";
+
+// Sign Message
+"sign_message_activity_name" = "签名消息";
+"sign_message_button" = "签名";
+"sign_message_output_copy" = "复制";
+"sign_message_output_qr" = "显示二维码";
+"sign_message_output_copied" = "内容已复制";
+"sign_message_input_hint" = "待签名的消息";
+"sign_message_select_address" = "选择签名消息用的地址";
+
+// Verify Message Signature
+"verify_message_signature_activity_name" = "验证消息签名";
+"verify_message_signature_verify_success" = "签名验证通过";
+"verify_message_signature_verify_failed" = "签名验证未通过";
+"verify_message_signature_verify_button" = "验证";
+"verify_message_signature_verify_button_verifying" = "正在验证…";
+"verify_message_signature_verify_button_reverify" = "重新验证";
+"sign_message_setting_name" = "消息签名";
+
+"add_address_watch_only_scanned_address_warning" = "比太只能监控冷钱包监控二维码,\n不能监控其它地址";
+
+// Cold Add HDM
+"hdm_seed_generation_notice" = "HDM 结合了分层确定性和多重签名两种技术.\n\nHDM 运用多重签名技术来避免分层确定性钱包的缺陷.\n\n比太使用 2/3 的多重签名来生成 HDM 地址.\n\n三个私钥分别由热钱包, 冷钱包和 HDM 服务器上的确定性种子生成.";
+"hdm_cold_pub_key_qr_code_name" = "HDM 冷帐号二维码";
+"hdm_server_qr_code_name" = "HDM 服务器二维码";
+"hdm_cold_seed_qr_code" = "HDM 冷种子二维码";
+"hdm_hot_seed_qr_code" = "HDM 热种子二维码";
+"hdm_cold_seed_word_list" = "HDM 密语(冷)";
+"hdm_hot_seed_word_list" = "HDM 密语(热)";
+
+// HDM Check
+"hdm_keychain_check_title_cold" = "HDM 冷";
+"hdm_keychain_check_title_hot" = "HDM 热";
+
+// Hot Add HDM
+"hdm_keychain_add_hot" = "HDM 热";
+"hdm_keychain_add_cold" = "HDM 冷";
+"hdm_keychain_add_server" = "HDM 服务器";
+"hdm_keychain_add_hot_confirm" = "生成 HDM 热帐号";
+"hdm_keychain_add_scan_cold" = "扫描 HDM 冷帐号二维码";
+"hdm_keychain_add_unsigned_server_qr_code_title" = "在冷钱包选择 HDM 服务器二维码来签名";
+"hdm_keychain_add_scan_signed_server_qr_code_action" = "扫描已签名服务器二维码";
+"hdm_keychain_add_sign_server_qr_code_error" = "签名服务器二维码出错";
+"hdm_keychain_add_signed_server_qr_code_title" = "已签名服务器二维码";
+"hdm_exception_bid_already_exists" = "此 HDM 冷账户已被绑定到另一个 HDM 热账户";
+"hdm_keychain_add_unsigned_server_qr_code_dismiss_confirm" = "放弃签名?";
+
+// Show HDM Address
+"address_group_hdm_hot" = "HDM 热";
+"hdm_address_sign_tx_server_error" = "HDM 服务器签名出错";
+
+// HDM Hot Address Add
+"hdm_address_count_limit" = "已达 HDM 地址数上限";
+"activity_name_add_hdm_address" = "增加 HDM 地址";
+"hdm_address_add_count_label" = "增加多少个 HDM 地址?";
+"hdm_address_add_need_cold_pub" = "需要 HDM 冷帐号二维码才能继续";
+"hdm_address_add_button" = "增加";
+"hdm_address_add_cold_pub_not_match" = "HDM 冷帐号和之前不同";
+
+// HDM Send
+"hdm_send_with_cold" = "与 HDM 冷共同签名";
+"hdm_send_with_server" = "与 HDM 服务器共同签名";
+"hdm_send_with_cold_no_requested_seed" = "您没有签名所需的 HDM 冷帐号";
+
+"import_hdm_cold_seed_qr_code"="来自HDM冷种子二维码";
+"import_hdm_cold_seed_phrase"="来自HDM密语(冷)";
+"import_hdm_cold_seed_format_error"="不是HDM冷种子";
+"can_not_import_hdm_cold_seed"="不能导入HDM冷种子";
+"import_hdm_cold_seed_qr_code_scan_title"="扫描HDM冷种子二维码";
+
+//hdm recovery
+"hdm_keychain_recovery_setting_name"="HDM 帐号恢复";
+"hdm_keychain_recovery_warn"="HDM 账号正在恢复中";
+"hdm_keychain_recovery_no_addresses"="没有需要恢复的 HDM 地址";
+"hdm_keychain_recovery_message"="请尽快转移走 HDM 恢复帐号中的比特币";
+"address_group_hdm_recovery"="HDM 恢复";
+"activity_name_hdm_import_word_list"="导入 HDM 密语";
+"hdm_import_word_list_input_hint"="下一单词";
+"hdm_import_word_list_empty_message"="请输入 HDM 密语";
+"hdm_import_word_list_wrong_word_warn"="单词无效";
+"hdm_import_word_list_delete"="删除";
+"hdm_import_word_list_replace"="替换";
+
+"not_verify_bither_private_key_qrcode"="不是比太私钥二维码";
+
+// hdm reset server password
+"hdm_reset_server_password_password_wrong_confirm" = "HDM 服务器授权失效.\n使用 HDM 冷重新授权?";
+"hdm_reset_server_password_confirm" = "确认重置 HDM 服务器授权?";
+"hdm_reset_server_password_setting_name" = "重置 HDM 服务器授权";
+"hdm_reset_server_password_success" = "HDM 服务器授权已重置";
+
+// hdm singular mode
+"hdm_singular_check_title" = "单机模式";
+"hdm_singular_cold_seed_remember_warn" = "HDM 冷种子非常重要.\n您必须自己妥善保存它.";
+"hdm_singular_cold_seed_remember_button" = "我已保存好 HDM 冷种子";
+"hdm_singular_cold_seed_tab_words" = "密语";
+"hdm_singular_cold_seed_tab_qr" = "二维码";
+"hdm_singular_mode_info" = "单机模式只需要一部设备即可运行 HDM.\n不需要额外的冷钱包设备.\n但是您需要妥善保管好冷种子.\n冷种子是恢复 HDM 账户的唯一方法.";
+"hdm_singular_mode_cancel_warn" = "HDM 单机模式正在运行, 不能中断";
+
+// address alias
+"address_alias_manage" = "地址标签";
+"address_alias_add" = "设置地址标签";
+"address_alias_remove" = "删除地址标签";
+"address_alias_edit" = "编辑地址标签";
+"address_alias_input_label" = "输入此地址的标签";
+"address_alias_input_hint" = "标签";
+"address_alias_remove_confirm" = "删除此地址标签?";
+
+// password strength
+"password_strength_weak" = "较弱";
+"password_strength_normal" = "一般";
+"password_strength_medium" = "中等";
+"password_strength_strong" = "较强";
+"password_strength_very_strong" = "很强";
+"password_strength_warning" = "确定使用强度%@的密码?";
+"password_strength_check" = "密码强度检查";
+"password_strength_check_on" = "开";
+"password_strength_check_off" = "关";
+"password_strength_check_off_warn" = "确认关闭密码强度检查?";
+
+// add hd account
+"add_hd_account_label" = "生成新的 HD 账户";
+"add_hd_account_button" = "生成";
+"add_hd_account_tab_hd" = "HD 账户";
+"add_hd_account_tab_other" = "其它";
+"add_hd_account_other_hdm" = "生成 HDM 账户";
+"add_hd_account_other_private" = "生成普通私钥";
+"add_hd_account_monitor" = "一键监控冷钱包";
+"add_hd_account_monitor_success" = "监控成功";
+"add_hd_account_view_label" = "已有 HD 账户";
+"add_hd_account_seed_qr_code" = "HD 账户种子二维码";
+"add_hd_account_seed_qr_phrase" = "HD 账户密语";
+"add_hd_account_show_seed_label" = "HD 种子能够用来恢复 HD 账户,\n请安全地保管它.";
+"add_hd_account_show_seed_button" = "我已经保管好了 HD 种子";
+"private_key_count_limit" = "已达私钥数量上限";
+"watch_only_address_count_limit" = "已达到监控地址上限";
+"import_hd_account_seed_qr_code" = "来自 HD 种子二维码";
+"import_hd_account_seed_phrase" = "来自 HD 密语";
+"import_hd_account_seed_qr_scan_title" = "导入 HD 账户";
+"import_hd_account_seed_qr_scan_message" = "扫描 HD 种子二维码";
+"import_hd_account_seed_format_error"="不是 HD 账户种子";
+
+// show hd account
+"address_group_hd" = "HD 账户";
+"hd_account_request_new_receiving_address" = "生成新地址";
+"hd_account_request_new_receiving_address_failed" = "生成失败, 您最多只能生成20个未使用的新地址.";
+
+// bither team address
+"bither_team_address" = "开发者地址";
+"bither_team_address_copied" = "开发者地址已复制";
+
+// vanity address length
+"vanity_address_length" = "荣耀地址位数";
+"vanity_address_none" = "无";
+
+// payment address setting
+"payment_address_setting" = "收款地址";
+"payment_address_none" = "无";
+
+// first run dialog
+"first_run_dialog_title" = "为了保护您的比特币:";
+"first_run_dialog_line_1" = "请不要卸载比太钱包";
+"first_run_dialog_line_2" = "请牢记您的密码";
+
+// hd cold
+"hdm_cold_seed_count_limit" = "您只能生成一个 HDM 账户";
+"add_cold_hd_account_monitor_qr" = "HD 账户监控二维码";
+"hd_account_cold_address_list_label" = "冷 HD 账户";
+"import_cold_hd_account_seed_qr_code" = "来自HD种子二维码";
+"import_cold_hd_account_seed_phrase" = "来自HD密语";
+
+// Monitor HD
+"monitor_cold_hd_account" = "监控冷 HD 账户";
+"monitor_cold_hd_account_limit" = "只能监控 1 个冷 HD 账户";
+"monitor_cold_hd_account_failed" = "监控冷 HD 账户失败";
+"monitor_cold_hd_account_failed_duplicated" = "监控失败. 这个账户已经存在.";
+"import_hd_account_failed_duplicated" = "导入失败. 这个账户已经存在.";
+"monitor_cold_hd_account_success" = "监控冷 HD 账户成功";
+"hd_account_old_addresses" = "旧地址列表";
+"hd_account_old_addresses_zero" = "目前还没有使用过的地址";
+
+// Address Full For HD
+"address_full_for_hd_label_own" = "账户内地址";
+"address_full_for_hd_label_foreign" = "账户外地址";
+"address_full_for_hd_type_receiving" = "接收";
+"address_full_for_hd_type_sending" = "发送";
+"address_full_for_hd_type_changing" = "找零";
+
+// Hide Total Balance
+"total_balance_hide_setting_name" = "总余额";
+"total_balance_hide_show_all" = "显示余额和报表";
+"total_balance_hide_show_chart" = "只显示报表";
+"total_balance_hide_hide_all" = "隐藏";

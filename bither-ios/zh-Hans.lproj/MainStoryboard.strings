@@ -1,0 +1,417 @@
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "0u9-oG-ULv"; */
+"0u9-oG-ULv.text" = "Label";
+
+/* Class = "IBUILabel"; text = "%"; ObjectID = "1MG-Ff-Ctm"; */
+"1MG-Ff-Ctm.text" = "%";
+
+/* Class = "IBUITextField"; placeholder = "0.00"; ObjectID = "1pu-fA-kTl"; */
+"1pu-fA-kTl.placeholder" = "0.00";
+
+/* Class = "IBUILabel"; text = "name"; ObjectID = "2Jh-dT-UDy"; */
+"2Jh-dT-UDy.text" = "name";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "38x-NI-gXk"; */
+"38x-NI-gXk.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Pay to"; ObjectID = "4lI-QI-HQr"; */
+"4lI-QI-HQr.text" = "发送给";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5Mm-vi-wGE"; */
+"5Mm-vi-wGE.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "6FL-zM-ekJ"; */
+"6FL-zM-ekJ.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "6PV-kG-o95"; */
+"6PV-kG-o95.text" = "Label";
+
+/* Class = "IBUITextField"; placeholder = "Bitcoin address"; ObjectID = "6Td-u4-E0s"; */
+"6Td-u4-E0s.placeholder" = "比特币地址";
+
+/* Class = "IBUITextField"; placeholder = "Bitcoin address"; ObjectID = "7eD-5T-1F7"; */
+"7eD-5T-1F7.placeholder" = "比特币地址";
+
+/* Class = "IBUILabel"; text = "How many private keys to generate?"; ObjectID = "8Qe-tr-XPb"; */
+"8Qe-tr-XPb.text" = "生成多少个私钥?";
+
+/* Class = "IBUILabel"; text = "3899.23"; ObjectID = "97C-RC-ZTW"; */
+"97C-RC-ZTW.text" = "3899.23";
+
+/* Class = "IBUILabel"; text = "3899.23"; ObjectID = "9UE-YF-ZPV"; */
+"9UE-YF-ZPV.text" = "3899.23";
+
+/* Class = "IBUILabel"; text = "From"; ObjectID = "BG3-vv-NOl"; */
+"BG3-vv-NOl.text" = "从";
+
+/* Class = "IBUILabel"; text = "Amount"; ObjectID = "BZZ-7d-0no"; */
+"BZZ-7d-0no.text" = "金额";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "DbI-lX-jWY"; */
+"DbI-lX-jWY.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Pay to"; ObjectID = "F4n-lA-Ige"; */
+"F4n-lA-Ige.text" = "发送给";
+
+/* Class = "IBUILabel"; text = "name"; ObjectID = "FGf-zH-Ia6"; */
+"FGf-zH-Ia6.text" = "name";
+
+/* Class = "IBUILabel"; text = "Advance Options"; ObjectID = "FzN-AZ-zUK"; */
+"FzN-AZ-zUK.text" = "高级选项";
+
+/* Class = "IBUILabel"; text = "Balance:"; ObjectID = "GbZ-iW-rIX"; */
+"GbZ-iW-rIX.text" = "余额:";
+
+/* Class = "IBUILabel"; text = "low"; ObjectID = "I5M-vR-w4V"; */
+"I5M-vR-w4V.text" = "最低";
+
+/* Class = "IBUILabel"; text = "23451.23"; ObjectID = "IjU-Us-PGx"; */
+"IjU-Us-PGx.text" = "23451.23";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Irv-YA-qKK"; */
+"Irv-YA-qKK.text" = "Label";
+
+/* Class = "IBUITextField"; placeholder = "0.00"; ObjectID = "MAT-xt-p4f"; */
+"MAT-xt-p4f.placeholder" = "0.00";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "MSV-4p-BLw"; */
+"MSV-4p-BLw.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Check Private Keys"; ObjectID = "Np0-ig-4Cd"; */
+"Np0-ig-4Cd.normalTitle" = "一键检查私钥";
+
+/* Class = "IBUILabel"; text = "$0.00"; ObjectID = "Nzn-0V-cau"; */
+"Nzn-0V-cau.text" = "$0.00";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "OlL-T9-SKL"; */
+"OlL-T9-SKL.normalTitle" = "发送";
+
+/* Class = "IBUILabel"; text = "$1234.90"; ObjectID = "Onw-PZ-JGC"; */
+"Onw-PZ-JGC.text" = "$1234.90";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Plt-58-S4m"; */
+"Plt-58-S4m.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Bither Hot: Online & Simple."; ObjectID = "V5M-8Z-afm"; */
+"V5M-8Z-afm.text" = "热钱包: 联机, 易用!";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "VrN-rd-ovc"; */
+"VrN-rd-ovc.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Balance"; ObjectID = "W2y-ax-75E"; */
+"W2y-ax-75E.text" = "余额";
+
+/* Class = "IBUILabel"; text = "Amount"; ObjectID = "W4J-bu-8RU"; */
+"W4J-bu-8RU.text" = "金额";
+
+/* Class = "IBUIButton"; normalTitle = "Retry"; ObjectID = "XCg-Ta-A0q"; */
+"XCg-Ta-A0q.normalTitle" = "重试";
+
+/* Class = "IBUILabel"; text = "Initializing…"; ObjectID = "YDg-IR-7hP"; */
+"YDg-IR-7hP.text" = "加载中…";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "Z5W-Ua-Lm5"; */
+"Z5W-Ua-Lm5.normalTitle" = "发送";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "bKW-aE-gcw"; */
+"bKW-aE-gcw.text" = "Label";
+
+/* Class = "IBUILabel"; text = "marketName"; ObjectID = "bOH-Sj-yMG"; */
+"bOH-Sj-yMG.text" = "marketName";
+
+/* Class = "IBUILabel"; text = "0.00"; ObjectID = "bfg-wv-lfB"; */
+"bfg-wv-lfB.text" = "0.00";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "bq1-3M-RqW"; */
+"bq1-3M-RqW.text" = "Label";
+
+/* Class = "IBUILabel"; text = "value"; ObjectID = "cAB-ok-gus"; */
+"cAB-ok-gus.text" = "value";
+
+/* Class = "IBUILabel"; text = "1JT3"; ObjectID = "cdq-og-ME5"; */
+"cdq-og-ME5.text" = "1JT3";
+
+/* Class = "IBUILabel"; text = "Can not find private key"; ObjectID = "eEx-7U-SVT"; */
+"eEx-7U-SVT.text" = "没有找到对应的私钥";
+
+/* Class = "IBUILabel"; text = "Import HDM Phrase"; ObjectID = "Qwn-YF-uwn"; */
+"Qwn-YF-uwn.text" = "导入 HDM 密语";
+
+
+/* Class = "IBUILabel"; text = "Pay to"; ObjectID = "g3O-Ch-Qm9"; */
+"g3O-Ch-Qm9.text" = "发送给";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "gbe-Xl-yCZ"; */
+"gbe-Xl-yCZ.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Network failure."; ObjectID = "jQj-PR-DVU"; */
+"jQj-PR-DVU.text" = "网络错误";
+
+/* Class = "IBUILabel"; text = "24h"; ObjectID = "kS5-Zp-kQC"; */
+"kS5-Zp-kQC.text" = "24h";
+
+/* Class = "IBUIButton"; normalTitle = "Monitor Bither Cold"; ObjectID = "kbG-t9-dEm"; */
+"kbG-t9-dEm.normalTitle" = "一键监控冷钱包";
+
+/* Class = "IBUILabel"; text = "QR Code"; ObjectID = "mSg-tC-frD"; */
+"mSg-tC-frD.text" = "二维码";
+
+/* Class = "IBUILabel"; text = "100"; ObjectID = "mjb-dF-Wjb"; */
+"mjb-dF-Wjb.text" = "100";
+
+/* Class = "IBUILabel"; text = "Sign Transaction"; ObjectID = "mpu-26-YRO"; */
+"mpu-26-YRO.text" = "签名交易";
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "nGP-EM-iOS"; */
+"nGP-EM-iOS.text" = "密码";
+
+/* Class = "IBUILabel"; text = "Amount"; ObjectID = "nyJ-oV-7hM"; */
+"nyJ-oV-7hM.text" = "金额";
+
+/* Class = "IBUILabel"; text = "Generate New Private Keys"; ObjectID = "oGZ-jk-Y8A"; */
+"oGZ-jk-Y8A.text" = "生成新私钥";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "qNL-tR-Rjx"; */
+"qNL-tR-Rjx.text" = "详情";
+
+/* Class = "IBUILabel"; text = "123456.34"; ObjectID = "qge-A9-g1H"; */
+"qge-A9-g1H.text" = "123456.34";
+
+/* Class = "IBUILabel"; text = "Check Private Keys"; ObjectID = "r4O-0V-IoA"; */
+"r4O-0V-IoA.text" = "一键检查私钥";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "rFx-au-8Hm"; */
+"rFx-au-8Hm.normalTitle" = "发送";
+
+/* Class = "IBUILabel"; text = "Fee"; ObjectID = "uBs-uD-RbW"; */
+"uBs-uD-RbW.text" = "手续费";
+
+/* Class = "IBUILabel"; text = "value"; ObjectID = "uZ8-dN-dTU"; */
+"uZ8-dN-dTU.text" = "value";
+
+/* Class = "IBUILabel"; text = "Balance:"; ObjectID = "uiN-WE-JlS"; */
+"uiN-WE-JlS.text" = "余额:";
+
+/* Class = "IBUIButton"; normalTitle = "Sign Transaction"; ObjectID = "v27-0r-WIj"; */
+"v27-0r-WIj.normalTitle" = "签名交易";
+
+/* Class = "IBUIButton"; normalTitle = "Generate"; ObjectID = "vhW-ec-Y0h"; */
+"vhW-ec-Y0h.normalTitle" = "生成";
+
+/* Class = "IBUILabel"; text = "$"; ObjectID = "vi1-Kv-pOT"; */
+"vi1-Kv-pOT.text" = "$";
+
+/* Class = "IBUILabel"; text = "name"; ObjectID = "viE-UV-mZx"; */
+"viE-UV-mZx.text" = "name";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "xmg-Xg-1Ns"; */
+"xmg-Xg-1Ns.placeholder" = "密码";
+
+/* Class = "IBUILabel"; text = "Setting"; ObjectID = "yOF-tp-J78"; */
+"yOF-tp-J78.text" = "设置";
+
+/* Class = "IBUILabel"; text = "Bither Cold: Offline & Secure."; ObjectID = "yu4-YT-Y6b"; */
+"yu4-YT-Y6b.text" = "冷钱包: 离线, 安全!";
+
+/* Class = "IBUILabel"; text = "3568.34"; ObjectID = "yz4-Gr-HYw"; */
+"yz4-Gr-HYw.text" = "3568.34";
+
+/* Class = "IBUILabel"; text = "value"; ObjectID = "zIR-6H-nG4"; */
+"zIR-6H-nG4.text" = "value";
+
+/* Class = "IBUIButton"; normalTitle = "Next Word"; ObjectID = "ifX-vq-zRq"; */
+"ifX-vq-zRq.normalTitle" = "下一单词";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "zLo-PY-kep"; */
+"zLo-PY-kep.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Check R Values"; ObjectID = "f9N-3Q-IJD"; */
+"f9N-3Q-IJD.normalTitle" = "检查 r 值";
+
+/* Class = "IBUILabel"; text = "R Value Check"; ObjectID = "bNn-8g-rmY"; */
+"bNn-8g-rmY.text" = "r 值检查";
+
+/* Class = "IBUILabel"; text = "Trash Can"; ObjectID = "W7P-G2-qt2"; */
+"W7P-G2-qt2.text" = "回收站";
+
+/* Class = "IBUIButton"; normalTitle = "Switch to Bither Cold"; ObjectID = "4pa-hj-c7j"; */
+"4pa-hj-c7j.normalTitle" = "切换到冷钱包";
+
+/* Class = "IBUILabel"; text = "Raw Private Key"; ObjectID = "7q1-Od-7M4"; */
+"7q1-Od-7M4.text" = "原始私钥";
+
+/* Class = "IBUIButton"; normalTitle = "Add This Private Key"; ObjectID = "zjg-wy-EHw"; */
+"zjg-wy-EHw.normalTitle" = "添加此私钥";
+
+/* Class = "IBUILabel"; text = "Address"; ObjectID = "9VQ-qA-ave"; */
+"9VQ-qA-ave.text" = "地址";
+
+/* Class = "IBUILabel"; text = "Private Key"; ObjectID = "he8-50-11R"; */
+"he8-50-11R.text" = "私钥";
+
+/* Class = "IBUILabel"; text = "Change to"; ObjectID = "gL9-bD-fq2"; */
+"gL9-bD-fq2.text" = "找零到";
+
+/* Class = "IBUILabel"; text = "Change Amount"; ObjectID = "ipI-cb-OYV"; */
+"ipI-cb-OYV.text" = "找零金额";
+
+/* Class = "IBUILabel"; text = "Sign Message"; ObjectID = "sn3-Rm-dRd"; */
+"sn3-Rm-dRd.text" = "签名消息";
+
+/* Class = "IBUIButton"; normalTitle = "Sign"; ObjectID = "GHf-wI-Umw"; */
+"GHf-wI-Umw.normalTitle" = "签名";
+
+/* Class = "IBUILabel"; text = "Verify Message Signature"; ObjectID = "gvK-WF-XJl"; */
+"gvK-WF-XJl.text" = "验证消息签名";
+
+/* Class = "IBUILabel"; text = "Signing Address"; ObjectID = "xhb-O8-bSH"; */
+"xhb-O8-bSH.text" = "签名用的地址";
+
+/* Class = "IBUILabel"; text = "Original Message"; ObjectID = "qRU-bn-bhg"; */
+"qRU-bn-bhg.text" = "原消息";
+
+/* Class = "IBUILabel"; text = "Signature"; ObjectID = "CJp-QT-laa"; */
+"CJp-QT-laa.text" = "签名";
+
+/* Class = "IBUIButton"; normalTitle = "Generate"; ObjectID = "2fh-9Q-YV2"; */
+"2fh-9Q-YV2.normalTitle" = "生成";
+
+/* Class = "IBUILabel"; text = "HDM Cold"; ObjectID = "kSV-dE-lAl"; */
+"kSV-dE-lAl.text" = "HDM 冷";
+
+/* Class = "IBUILabel"; text = "HDM Hot"; ObjectID = "5Da-1U-rSQ"; */
+"5Da-1U-rSQ.text" = "HDM 热";
+
+/* Class = "IBUILabel"; text = "HDM Cold"; ObjectID = "lUJ-Y1-VRb"; */
+"lUJ-Y1-VRb.text" = "HDM 冷";
+
+/* Class = "IBUILabel"; text = "HDM Server"; ObjectID = "lnF-bS-z2z"; */
+"lnF-bS-z2z.text" = "HDM 服务器";
+
+/* Class = "IBUILabel"; text = "How many HDM addresses to add?"; ObjectID = "KSX-eO-Uwn"; */
+"KSX-eO-Uwn.text" = "增加多少个 HDM 地址?";
+
+/* Class = "IBUILabel"; text = "Add HDM Address"; ObjectID = "Kfd-Dg-pnE"; */
+"Kfd-Dg-pnE.text" = "增加 HDM 地址";
+
+/* Class = "IBUIButton"; normalTitle = "Generate"; ObjectID = "gHB-fo-cHb"; */
+"gHB-fo-cHb.normalTitle" = "增加";
+
+/* Class = "UIButton"; normalTitle = "Singular Mode"; ObjectID = "EXG-fG-TbM"; */
+"EXG-fG-TbM.normalTitle" = "单机模式";
+
+/* Class = "UILabel"; text = "Singular Mode"; ObjectID = "IzA-vJ-Ad6"; */
+"IzA-vJ-Ad6.text" = "单机模式";
+
+/* Class = "UISegmentedControl"; aLp-gS-meD.segmentTitles[0] = "Dice"; ObjectID = "aLp-gS-meD"; */
+"aLp-gS-meD.segmentTitles[0]" = "骰子";
+
+/* Class = "UISegmentedControl"; aLp-gS-meD.segmentTitles[1] = "Binary"; ObjectID = "aLp-gS-meD"; */
+"aLp-gS-meD.segmentTitles[1]" = "二进制";
+
+/* Class = "UIButton"; normalTitle = "Add This Private Key"; ObjectID = "ckY-fV-MzW"; */
+"ckY-fV-MzW.normalTitle" = "添加此私钥";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "wb7-kB-0ec"; */
+"wb7-kB-0ec.text" = "地址";
+
+/* Class = "UILabel"; text = "Private Key"; ObjectID = "x9d-Sc-rrj"; */
+"x9d-Sc-rrj.text" = "私钥";
+
+/* Class = "UITextField"; placeholder = "Bitcoin address"; ObjectID = "fCj-hW-RGp"; */
+"fCj-hW-RGp.placeholder" = "比特币地址";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "aHu-iQ-TCR"; */
+"aHu-iQ-TCR.text" = "金额";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "xmE-uG-hIe"; */
+"xmE-uG-hIe.placeholder" = "密码";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "mdF-6N-ecP"; */
+"mdF-6N-ecP.text" = "密码";
+
+/* Class = "UILabel"; text = "Balance:"; ObjectID = "hsE-yP-NwX"; */
+"hsE-yP-NwX.text" = "余额:";
+
+/* Class = "UISegmentedControl"; oZb-Bk-280.segmentTitles[0] = "HD Account"; ObjectID = "oZb-Bk-280"; */
+"oZb-Bk-280.segmentTitles[0]" = "HD 账户";
+
+/* Class = "UISegmentedControl"; oZb-Bk-280.segmentTitles[1] = "Others"; ObjectID = "oZb-Bk-280"; */
+"oZb-Bk-280.segmentTitles[1]" = "其它";
+
+/* Class = "UIButton"; normalTitle = "Generate"; ObjectID = "LrS-g8-zv9"; */
+"LrS-g8-zv9.normalTitle" = "生成";
+
+/* Class = "UILabel"; text = "Generate New HD Account"; ObjectID = "bUN-jt-wO1"; */
+"bUN-jt-wO1.text" = "生成新的 HD 账户";
+
+/* Class = "UIButton"; normalTitle = "Generate Normal Private Keys"; ObjectID = "aa4-oP-TVf"; */
+"aa4-oP-TVf.normalTitle" = "生成普通私钥";
+
+/* Class = "UIButton"; normalTitle = "Generate HDM Account"; ObjectID = "tee-1q-g6I"; */
+"tee-1q-g6I.normalTitle" = "生成 HDM 账户";
+
+/* Class = "UILabel"; text = "You already have an HD account."; ObjectID = "nBS-fJ-qtL"; */
+"nBS-fJ-qtL.text" = "已有 HD 账户";
+
+/* Class = "UIButton"; normalTitle = "HD Account Seed QR Code"; ObjectID = "5p5-q5-NIv"; */
+"5p5-q5-NIv.normalTitle" = "HD 账户种子二维码";
+
+/* Class = "UIButton"; normalTitle = "HD Account Seed Phrase"; ObjectID = "Ces-kP-XIs"; */
+"Ces-kP-XIs.normalTitle" = "HD 账户密语";
+
+/* Class = "UILabel"; text = "Generate Normal Private Keys"; ObjectID = "R90-Bo-e0X"; */
+"R90-Bo-e0X.text" = "生成普通私钥";
+
+/* Class = "UILabel"; text = "Generate HDM Account"; ObjectID = "Pgs-ev-QNu"; */
+"Pgs-ev-QNu.text" = "生成 HDM 账户";
+
+/* Class = "UITextField"; placeholder = "Bitcoin address"; ObjectID = "3Xg-gQ-PrT"; */
+"3Xg-gQ-PrT.placeholder" = "比特币地址";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "7HM-O3-12p"; */
+"7HM-O3-12p.normalTitle" = "发送";
+
+/* Class = "UILabel"; text = "Balance:"; ObjectID = "ECV-qg-2mZ"; */
+"ECV-qg-2mZ.text" = "余额:";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "jBb-nb-rnn"; */
+"jBb-nb-rnn.text" = "金额";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "qjQ-dU-y8s"; */
+"qjQ-dU-y8s.placeholder" = "密码";
+
+/* Class = "UILabel"; text = "Pay to"; ObjectID = "tBQ-pH-ztd"; */
+"tBQ-pH-ztd.text" = "发送给";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "v46-EP-4NU"; */
+"v46-EP-4NU.text" = "密码";
+
+/* Class = "UILabel"; text = "Import HD Seed Phrase"; ObjectID = "uoc-uG-k6M"; */
+"uoc-uG-k6M.text" = "导入 HD 密语";
+
+/* Class = "UIButton"; normalTitle = "Next Word"; ObjectID = "LUd-2F-jCf"; */
+"LUd-2F-jCf.normalTitle" = "下一单词";
+
+/* Class = "IBUISegmentedControl"; pIA-ee-e58.segmentTitles[0] = "Private"; ObjectID = "pIA-ee-e58"; */
+"pIA-ee-e58.segmentTitles[0]" = "冷 HD 账户";
+
+/* Class = "IBUISegmentedControl"; pIA-ee-e58.segmentTitles[1] = "HDM"; ObjectID = "pIA-ee-e58"; */
+"pIA-ee-e58.segmentTitles[1]" = "其它";
+
+/* Class = "UILabel"; text = "Generate HDM Account"; ObjectID = "7VR-SE-47k"; */
+"7VR-SE-47k.text" = "生成 HDM 账户";
+
+/* Class = "UILabel"; text = "Cold HD Account"; ObjectID = "dU2-IG-q9c"; */
+"dU2-IG-q9c.text" = "冷 HD 账户";
+
+/* Class = "UITextField"; placeholder = "Bitcoin address"; ObjectID = "8hY-cL-7RN"; */
+"8hY-cL-7RN.placeholder" = "比特币地址";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "I3O-1Q-uKd"; */
+"I3O-1Q-uKd.text" = "金额";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "x5l-Rf-4Wi"; */
+"x5l-Rf-4Wi.normalTitle" = "发送";
+
+/* Class = "UILabel"; text = "Balance:"; ObjectID = "3TU-hn-ytB"; */
+"3TU-hn-ytB.text" = "余额:";
